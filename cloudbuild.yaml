@@ -8,9 +8,9 @@ steps:
       [
         'run',
         'deploy',
-        'mei-mylandingpage,
+        'mei-mylandingpage',
         '--image',
-        'gcr.io/$PROJECT_ID/mei-mylandingpage,
+        'gcr.io/$PROJECT_ID/mei-mylandingpage',
         '--region',
         'asia-southeast2',
         '--platform',
